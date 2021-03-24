@@ -1,4 +1,4 @@
-# React Anecdotes Project
+# React Phonebook Project
 
 Go to https://drewcsontos.github.io/ReactPhoneBook to check out my React project.
 
